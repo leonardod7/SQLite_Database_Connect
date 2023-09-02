@@ -1,0 +1,1 @@
+SELECT a.Title FROM Album a;
